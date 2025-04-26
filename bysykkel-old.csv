@@ -1,0 +1,45 @@
+user_id,user_name,user_phone_number,subscription_id,subscription_type,subscription_start_time,trip_id,trip_start_time,trip_end_time,start_station_id,start_station_name,start_station_latitude,start_station_longitude,start_station_max_spots,satart_station_available_spots,end_station_id,end_station_name,end_station_latitude,end_station_longitude,end_station_max_spots,end_station_available_spots,bike_id,bike_name,bike_status,bike_station_id
+1,"Ole Olesen",12345678,,,,,,,,,,,,,,,,,,,,,,
+2,"Vilde Sørensen",54140106,1,Week,"2019-07-30 17:00:19",1,"2019-08-04 13:12:10","2019-08-04 13:21:04",4,"Småstrandgaten",60.393001,5.326816,24,16,2,"Nygårdsporten",60.383964,5.333448,27,8,6,Trine,Parked,2
+2,"Vilde Sørensen",54140106,4,Year,"2018-01-20 04:59:03",,,,,,,,,,,,,,,,,,,
+3,"Stig Wilhelmsen",94390764,16,Month,"2020-06-14 12:45:57",,,,,,,,,,,,,,,,,,,
+3,"Stig Wilhelmsen",94390764,24,Year,"2018-08-30 10:40:59",,,,,,,,,,,,,,,,,,,
+3,"Stig Wilhelmsen",94390764,31,Week,"2019-12-19 22:32:45",,,,,,,,,,,,,,,,,,,
+4,"Markus Karlsen",32507021,2,Day,"2020-05-12 22:38:24",,,,,,,,,,,,,,,,,,,
+4,"Markus Karlsen",32507021,19,Week,"2019-03-25 09:14:10",,,,,,,,,,,,,,,,,,,
+5,"Kristine Halseth",32641181,7,Day,"2018-06-07 02:08:39",5,,,,,,,,,,,,,,,,,,,,
+5,"Kristine Halseth",32641181,28,Month,"2021-01-18 19:30:07",5,"2021-02-01 09:30:08","2021-02-01 09:32:04",5,Torgallmenningen,60.392954,5.323628,22,4,3,Festplassen,60.39127,5.325756,24,23,11,Marie,Parked,3
+5,"Kristine Halseth",32641181,32,Week,"2018-10-13 14:48:46",,,,,,,,,,,,,,,,,,,
+6,"Anders Hansen",57527858,11,Year,"2020-10-18 17:37:25",,,,,,,,,,,,,,,,,,,
+7,"Per Arnesen",11223344,,,,,,,,,,,,,,,,,,,,,,
+8,"Kjersti Pham",26720981,22,Day,"2020-12-04 18:00:22",,,,,,,,,,,,,,,,,,,
+8,"Kjersti Pham",26720981,23,Week,"2021-01-21 17:56:20",,,,,,,,,,,,,,,,,,,
+9,"Erling Ruud",83997261,12,Year,"2018-01-02 08:19:11",,,,,,,,,,,,,,,,,,,
+9,"Erling Ruud",83997261,26,Month,"2021-02-07 13:53:14",2,"2021-02-10 08:53:14","2021-02-10 09:07:32",3,Festplassen,60.39127,5.325756,24,23,1,"Høyteknologisenteret",60.382216,5.332288,66,34,8,Thea,Parked,1
+10,"Kine Pedersen",33866539,3,Year,"2019-06-21 15:31:47",,,,,,,,,,,,,,,,,,,
+11,"Rune Vang",42135422,9,Week,"2021-01-24 07:01:09",3,"2021-01-27 16:01:08","2021-01-27 16:42:11",1,"Høyteknologisenteret",60.382216,5.332288,66,34,1,"Høyteknologisenteret",60.382216,5.332288,66,34,9,Roar,Parked,1
+11,"Rune Vang",42135422,30,Week,"2018-12-12 12:53:52",,,,,,,,,,,,,,,,,,,
+12,"Madeleine Sørensen",21968827,13,Year,"2019-02-01 19:39:48",,,,,,,,,,,,,,,,,,,
+12,"Madeleine Sørensen",21968827,25,Month,"2020-03-15 20:15:20",,,,,,,,,,,,,,,,,,,
+14,"Roger Lie",79595257,15,Month,"2020-10-11 15:58:02",,,,,,,,,,,,,,,,,,,
+15,"Vibeke Indrebø",37715005,5,Week,"2020-09-13 12:41:30",,,,,,,,,,,,,,,,,,,
+15,"Vibeke Indrebø",37715005,29,Month,"2019-09-28 04:17:16",,,,,,,,,,,,,,,,,,,
+16,"Thomas Olsen",76929790,17,Month,"2021-01-26 20:17:49",4,"2021-02-13 19:18:42","2021-02-13 19:24:02",2,"Nygårdsporten",60.383964,5.333448,27,8,5,Torgallmenningen,60.392954,5.323628,22,4,12,Annette,Parked,5
+16,"Thomas Olsen",76929790,27,Month,"2018-10-23 17:29:16",,,,,,,,,,,,,,,,,,,
+17,"Kari Hansen",1884971,20,Week,"2018-08-26 17:10:37",,,,,,,,,,,,,,,,,,,
+17,"Kari Hansen",1884971,21,Week,"2020-12-16 18:44:29",,,,,,,,,,,,,,,,,,,
+18,"Mari Siljesen",22115577,18,Month,"2020-03-07 01:46:37",,,,,,,,,,,,,,,,,,,
+19,"Anders Jakobsen",63507721,8,Day,"2018-06-13 22:48:22",,,,,,,,,,,,,,,,,,,
+19,"Anders Jakobsen",63507721,14,Year,"2020-02-24 16:11:38",,,,,,,,,,,,,,,,,,,
+20,"Tor Antonsen",63570173,6,Day,"2019-05-26 15:00:32",,,,,,,,,,,,,,,,,,,
+20,"Tor Antonsen",63570173,10,Year,"2019-06-23 18:11:02",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,1,Morten,Missing,4
+,,,,,,,,,,,,,,,,,,,,,2,Sara,Active,2
+,,,,,,,,,,,,,,,,,,,,,3,Ida,Active,1
+,,,,,,,,,,,,,,,,,,,,,4,Hege,Active,3
+,,,,,,,,,,,,,,,,,,,,,5,Henrik,Parked,5
+,,,,,,,,,,,,,,,,,,,,,7,Frank,Parked,4
+,,,,,,,,,,,,,,,,,,,,,10,Preben,Missing,4
+,,,,,,,,,,,,,,,,,,,,,13,Elin,Active,2
+,,,,,,,,,,,,,,,,,,,,,14,Andreas,Missing,2
+,,,,,,,,,,,,,,,,,,,,,15,Runar,Active,5
